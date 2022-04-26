@@ -1,0 +1,4 @@
+mkdir TrainingActivities
+cd 
+touch commandUsed.md
+cat > commandUsed
