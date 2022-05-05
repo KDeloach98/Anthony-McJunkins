@@ -1,0 +1,17 @@
+## What is a DateTime variable?
+
+The DateTime (System.dateTime) enables you to store information about the date and time in variables.
+
+    -This variable can be found in Browse and Select a .Net system, under the namespace System.DateTime.
+
+The reason why we would use DateTime variable is to include appending documents and or perform time span calculations. 
+
+---
+
+## What are some business scenarios in which DateTime would be used?
+
+Working with time-sensitive documents such as invoices in scenarios where:
+
+    *the time format varies throughout the process.
+
+    *a specific amount of time needs to be added or subtracted while processing documents.
